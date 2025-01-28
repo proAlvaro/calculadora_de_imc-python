@@ -23,9 +23,9 @@ Fiz essa calculadora como forma de estudar e colocar em prática o que aprendi e
 
 ## 💡 Observações e Melhorias
 
-1. **Validação de entrada**: Atualmente, o programa trata apenas o valor inválido. Você pode aprimorar a validação de entrada para solicitar novamente a entrada correta do usuário.
-2. **Função de cálculo de IMC**: Colocar o cálculo de IMC em uma função separada para reutilização e melhor legibilidade.
-3. **Mensagens de saída**: Melhorar as mensagens de saída para serem mais amigáveis e informativas.
-4. **Interface gráfica**: Considere criar uma interface gráfica para tornar a experiência do usuário mais intuitiva e interativa. Você pode usar bibliotecas como Tkinter ou PyQt.
+1. **Validação de entrada**: Atualmente, o programa trata apenas o valor inválido. Poderia aprimorar a validação de entrada para solicitar novamente a entrada correta do usuário, garantindo que os valores sejam válidos.
+2. **Função de cálculo de IMC**: Seria interessante colocar o cálculo de IMC em uma função separada para reutilização e melhor legibilidade do código..
+3. **Mensagens de saída**: Seria interessante colocar o cálculo de IMC em uma função separada para reutilização e melhor legibilidade do código.
+4. **Interface gráfica**: Considerar a criação de uma interface gráfica para tornar a experiência do usuário mais intuitiva e interativa. Isso pode ser feito utilizando bibliotecas como Tkinter ou PyQt.
 
-### Mas isso vai ficar para o futuro
+### Mas isso vai ficar para o futuro 🚀
